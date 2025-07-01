@@ -2,7 +2,7 @@
 
 <br>
 
-![Tux Penguin Logo](images/Penguin-Tales.png)
+![Tux Penguin Logo](Assets/Penguin-Tales.png)
 
 <h1 align="center"><strong>My Journey to Linux Mastery: A Beginner's Guide</strong></h1>
 
