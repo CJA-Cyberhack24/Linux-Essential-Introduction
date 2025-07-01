@@ -1,10 +1,10 @@
 # Linux-Essential-Introduction
 
-<h1> <p align="center">
-  <strong><style=color#023E8A>My Journey to Linux Mastery: A Beginner's Guide</strong>
-</p></h1>
-
 <br>
+
+![Tux Penguin Logo](images/Penguin-Tales.png)
+
+<h1 align="center"><strong>My Journey to Linux Mastery: A Beginner's Guide</strong></h1>
 
 <br>
 
@@ -21,3 +21,7 @@
 * **2004:** Ubuntu is first released, quickly becoming one of the most popular and accessible desktop Linux distributions.
 * **2000s onwards:** Linux continues to dominate the server, supercomputing, and embedded device markets (routers, smart TVs, Android phones, IoT devices).
 * **2010s onwards:** Cloud computing heavily relies on Linux. Docker and Kubernetes (containerization technologies) become prevalent, often running on Linux. Microsoft introduces features like WSL (Windows Subsystem for Linux), acknowledging Linux's importance.
+
+<br>
+
+![Linux Command Cheatsheet for Beginners](https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/blob/27759f07b9c4bf141d71603dfcc5614a2130f287/linux-cheatsheet.png)
