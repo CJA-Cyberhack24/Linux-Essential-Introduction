@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="penguin-tales-logo.png" alt="Penguin-Tales Logo" width="200"/>
+  <img src="https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/blob/main/Penguin-Tales.png?raw=true" alt="Penguin-Tales Logo" width="200"/>
 </p>
 
 <h1 align="center"><strong>My Journey to Linux Mastery: A Beginner's Guide</strong></h1>
