@@ -2,7 +2,9 @@
 
 <br>
 
-![Tux Penguin Logo](Assets/Penguin-Tales.png)
+<p align="center">
+  <img src="penguin-tales-logo.png" alt="Penguin-Tales Logo" width="200"/>
+</p>
 
 <h1 align="center"><strong>My Journey to Linux Mastery: A Beginner's Guide</strong></h1>
 
