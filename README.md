@@ -27,3 +27,5 @@
 <br>
 
 ![Linux Command Cheatsheet for Beginners](https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/blob/27759f07b9c4bf141d71603dfcc5614a2130f287/linux-cheatsheet.png)
+
+[Mini Bio](Penguin-Tales)
