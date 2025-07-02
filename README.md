@@ -64,6 +64,3 @@ Got tips, resources, or want to share your Linux story? Feel free to [open an is
 
 ---
 
-
-
-[Mini Bio](Penguin-Tales)
