@@ -59,7 +59,7 @@ I’m now exploring shell scripting, deeper file permission management, and dabb
 
 ## 🤝 Let’s Connect
 
-Got tips, resources, or want to share your Linux story? Feel free to [open an issue](https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/issues/1) or fork this project. Let's learn together!
+Got tips, resources, or want to share your Linux story? Feel free to open an issue or fork this project. Let's learn together!
 <br>
 
 ---
