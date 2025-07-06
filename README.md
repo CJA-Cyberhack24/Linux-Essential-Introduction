@@ -62,5 +62,17 @@ I’m now exploring shell scripting, deeper file permission management, and dabb
 Got tips, resources, or want to share your Linux story? Feel free to open an issue or fork this project. Let's learn together!
 <br>
 
----
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Bluesky" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" />][Bluesky]
+
+
+[twitter]: https://twitter.com/AvalerionP
+[youtube]: https://www.youtube.com/@SAM7167
+[instagram]: https://www.instagram.com/cjavalerion/
+[linkedin]: https://linkedin.com/in/cjathanase
+[Bluesky]: https://bsky.app/profile/athanasecj.bsky.social
+
 
