@@ -8,32 +8,32 @@ Welcome to the **Penguin Tales Training Lab** section of my Linux Essentials por
 This folder contains weekly hands-on exercises designed to reinforce key concepts and build practical skills.
 Each week builds on core competencies, adding depth and security relevance as I go:
 
-🔹 Week 1: [Bash Basics](Training/bash_basics/README.md)
+🔹 Week 1: [Bash Basics](https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/blob/be334a817ec43d35036d593e1bb8e1fe322d0f89/Training/bash_basics/README.md)
 - 🔧 Learn: Navigating directories, manipulating files
 - 📝 Practice: ls, cd, touch, mkdir, rm, mv, cp
 - 📁 Folder: bash_basics/
 
-🔹 Week 2: [Permissions & Ownership](Training/permissions/README.md)
+🔹 Week 2: [Permissions & Ownership](https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/blob/be334a817ec43d35036d593e1bb8e1fe322d0f89/Training/permissions/README.md)
 - 🔧 Learn: chmod, chown, umask, ls -l, file modes
 - 📝 Practice: Create scripts to change permissions/ownership securely
 - 📁 Folder: permissions/
 
-🔹 Week 3: [User & Group Management](Training/user_management/README.md)
+🔹 Week 3: [User & Group Management](https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/blob/be334a817ec43d35036d593e1bb8e1fe322d0f89/Training/user_management/README.md)
 - 🔧 Learn: useradd, usermod, groupadd, passwd
 - 📝 Practice: Automate user creation for onboarding processes
 - 📁 Folder: user_management/
 
-🔹 Week 4: [Package Management](Training/package_management/README.md)
+🔹 Week 4: [Package Management](https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/tree/be334a817ec43d35036d593e1bb8e1fe322d0f89/Training/package_management#readme)
 - 🔧 Learn: apt, yum, dnf, snap
 - 📝 Practice: Script installation of tools useful for sysadmins & analysts
 - 📁 Folder: package_management/
 
-🔹 Week 5: [Shell Scripting & Automation](Training/automation/README.md)
+🔹 Week 5: [Shell Scripting & Automation](https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/blob/be334a817ec43d35036d593e1bb8e1fe322d0f89/Training/automation/README.md)
 - 🔧 Learn: Variables, conditionals, loops, crontab, input/output
 - 📝 Practice: Logging, timed jobs, simple interactive scripts
 - 📁 Folder: automation/
 
-🔹 Week 6: [System Info & Diagnostics](Training/system_info/README.md)
+🔹 Week 6: [System Info & Diagnostics](https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/blob/be334a817ec43d35036d593e1bb8e1fe322d0f89/Training/system_info/README.md)
 - 🔧 Learn: top, free, df, du, uptime, journalctl, dmesg
 - 📝 Practice: Build a diagnostics dashboard in bash
 - 📁 Folder: system_info/
