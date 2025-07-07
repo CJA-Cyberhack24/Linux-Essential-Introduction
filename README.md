@@ -75,4 +75,6 @@ Got tips, resources, or want to share your Linux story? Feel free to open an iss
 [linkedin]: https://linkedin.com/in/cjathanase
 [Bluesky]: https://bsky.app/profile/athanasecj.bsky.social
 
+[<img align="right" src="https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/assets/transparent-arrow.png" alt="Go to Training" width="60"/>](https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/files/Training/README.md)
+
 
