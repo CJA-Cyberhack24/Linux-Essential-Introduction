@@ -38,7 +38,7 @@ Each week builds on core competencies, adding depth and security relevance as I 
 - 📝 Practice: Build a diagnostics dashboard in bash
 - 📁 Folder: system_info/
 
-🔹 Week 7+: [Security-Oriented Scripts (Advanced Beginner)](Training/security-oriented_scripts/README.md)
+🔹 Week 7+: [Security-Oriented Scripts (Advanced Beginner)](https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/tree/9bd983a630d554a413f4134160924462d43ab182/Training/security-oriented_scripts)
 - 🔧 Learn: File auditing, suspicious log detection, network tools (netstat, ss)
 - 📝 Practice: Write alert scripts for strange login patterns, or unusual file changes
 - 📁 Folder: security_scripts/ (coming soon!)
