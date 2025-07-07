@@ -8,37 +8,37 @@ Welcome to the **Penguin Tales Training Lab** section of my Linux Essentials por
 This folder contains weekly hands-on exercises designed to reinforce key concepts and build practical skills.
 Each week builds on core competencies, adding depth and security relevance as I go:
 
-🔹 Week 1: Bash Basics
+🔹 Week 1: [Bash Basics](Training/bash_basics/README.md)
 - 🔧 Learn: Navigating directories, manipulating files
 - 📝 Practice: ls, cd, touch, mkdir, rm, mv, cp
 - 📁 Folder: bash_basics/
 
-🔹 Week 2: Permissions & Ownership
+🔹 Week 2: [Permissions & Ownership](Training/permissions/README.md)
 - 🔧 Learn: chmod, chown, umask, ls -l, file modes
 - 📝 Practice: Create scripts to change permissions/ownership securely
 - 📁 Folder: permissions/
 
-🔹 Week 3: User & Group Management
+🔹 Week 3: [User & Group Management](Training/user_management/README.md)
 - 🔧 Learn: useradd, usermod, groupadd, passwd
 - 📝 Practice: Automate user creation for onboarding processes
 - 📁 Folder: user_management/
 
-🔹 Week 4: Package Management
+🔹 Week 4: [Package Management](Training/package_management/README.md)
 - 🔧 Learn: apt, yum, dnf, snap
 - 📝 Practice: Script installation of tools useful for sysadmins & analysts
 - 📁 Folder: package_management/
 
-🔹 Week 5: Shell Scripting & Automation
+🔹 Week 5: [Shell Scripting & Automation](Training/automation/README.md)
 - 🔧 Learn: Variables, conditionals, loops, crontab, input/output
 - 📝 Practice: Logging, timed jobs, simple interactive scripts
 - 📁 Folder: automation/
 
-🔹 Week 6: System Info & Diagnostics
+🔹 Week 6: [System Info & Diagnostics](Training/system_info/README.md)
 - 🔧 Learn: top, free, df, du, uptime, journalctl, dmesg
 - 📝 Practice: Build a diagnostics dashboard in bash
 - 📁 Folder: system_info/
 
-🔹 Week 7+: Security-Oriented Scripts (Advanced Beginner)
+🔹 Week 7+: [Security-Oriented Scripts (Advanced Beginner)](Training/security-oriented_scripts/README.md)
 - 🔧 Learn: File auditing, suspicious log detection, network tools (netstat, ss)
 - 📝 Practice: Write alert scripts for strange login patterns, or unusual file changes
 - 📁 Folder: security_scripts/ (coming soon!)
